@@ -1,0 +1,31 @@
+body{
+    overflow: hidden;
+}
+
+.mono{
+    font-family: monospace;
+}
+
+#homepagetext{
+    font-family: sans-serif;
+}
+
+.container{
+
+    position: absolute;
+    left: 50%;
+    top: 27%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+
+p{
+    color: transparent;
+}
+
+#demo{ color: transparent; }
+
+
+
